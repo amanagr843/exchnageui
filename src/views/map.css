@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;1,400&display=swap');
+textarea:focus, input:focus{
+    outline: none;
+}
+select {
+    border:0px;
+    outline:0px;
+ }
